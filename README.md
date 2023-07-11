@@ -76,3 +76,19 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 ### My additional work
 - add blur to non-active panels and remove it so active one can be outstanding.
+
+
+## My Certificates
+[Udemy_Wordpres講座_修了証明書.pdf](https://github.com/KKoichi276052/what-i-made/files/12012774/Udemy_Wordpres._.pdf)
+[certificate_Python.pdf](https://github.com/KKoichi276052/what-i-made/files/12012773/certificate_Python.pdf)
+[certificate_Programming fundamentals.pdf](https://github.com/KKoichi276052/what-i-made/files/12012771/certificate_Programming.fundamentals.pdf)
+[certificate_ML.pdf](https://github.com/KKoichi276052/what-i-made/files/12012770/certificate_ML.pdf)
+[certificate_Linux.pdf](https://github.com/KKoichi276052/what-i-made/files/12012769/certificate_Linux.pdf)
+[certificate_JS.pdf](https://github.com/KKoichi276052/what-i-made/files/12012768/certificate_JS.pdf)
+[certificate_Java.pdf](https://github.com/KKoichi276052/what-i-made/files/12012767/certificate_Java.pdf)
+[certificate_IT_ Basics.pdf](https://github.com/KKoichi276052/what-i-made/files/12012766/certificate_IT_.Basics.pdf)
+[certificate_DS.pdf](https://github.com/KKoichi276052/what-i-made/files/12012765/certificate_DS.pdf)
+[certificate_Docker.pdf](https://github.com/KKoichi276052/what-i-made/files/12012763/certificate_Docker.pdf)
+[certificate_AI.pdf](https://github.com/KKoichi276052/what-i-made/files/12012762/certificate_AI.pdf)
+
+
