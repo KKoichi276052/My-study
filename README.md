@@ -78,6 +78,37 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 - add blur to non-active panels and remove it so active one can be outstanding.
 
 
+### 007:[personal-portfolio](https://personal-portfolio-exercise-kk.netlify.app)
+
+Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+
+### What I've learned
+- Stick navbar when it is once located at top of the viewport.
+- Dynamic highlighting of navbar item by detecting which section you are.
+- Skill bar using JS without hard coding CSS width.
+- nice hover effect with cards on "my projects" section.
+
+
+### 008:[classic-cars](https://classic-cars-exercise.netlify.app/)
+
+Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+
+### What I've learned
+- Emerging vertical navbar on click and
+
+
+### 009:[Architect website](https://classic-cars-exercise.netlify.app/)
+
+Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+
+### What I've learned
+- keyframe animation and adding forward to animation property for keeping the end state of animation.
+- grid
+- tilt.js with data-tilt attribute (need jQuery) 
+
+
+
+
 ## My Certificates
 - [Udemy_Wordpres講座_修了証明書.pdf](https://github.com/KKoichi276052/what-i-made/files/12012774/Udemy_Wordpres._.pdf)
 - [certificate_Python.pdf](https://github.com/KKoichi276052/what-i-made/files/12012773/certificate_Python.pdf)
