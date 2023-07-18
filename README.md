@@ -90,7 +90,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 007:[personal-portfolio](https://personal-portfolio-exercise-kk.netlify.app)
+### 007:[Personal portfolio](https://personal-portfolio-exercise-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -104,7 +104,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 008:[classic-cars](https://classic-cars-exercise.netlify.app/)
+### 008:[Classic cars](https://classic-cars-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
