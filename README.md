@@ -110,18 +110,9 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 
 ## My Certificates
-- [Udemy_Wordpres講座_修了証明書.pdf](https://github.com/KKoichi276052/what-i-made/files/12012774/Udemy_Wordpres._.pdf)
-- [certificate_Python.pdf](https://github.com/KKoichi276052/what-i-made/files/12012773/certificate_Python.pdf)
-- [certificate_Programming fundamentals.pdf](https://github.com/KKoichi276052/what-i-made/files/12012771/certificate_Programming.fundamentals.pdf)
-- [certificate_ML.pdf](https://github.com/KKoichi276052/what-i-made/files/12012770/certificate_ML.pdf)
-- [certificate_Linux.pdf](https://github.com/KKoichi276052/what-i-made/files/12012769/certificate_Linux.pdf)
-- [certificate_JS.pdf](https://github.com/KKoichi276052/what-i-made/files/12012768/certificate_JS.pdf)
-- [certificate_Java.pdf](https://github.com/KKoichi276052/what-i-made/files/12012767/certificate_Java.pdf)
-- [certificate_IT_ Basics.pdf](https://github.com/KKoichi276052/what-i-made/files/12012766/certificate_IT_.Basics.pdf)
-- [certificate_DS.pdf](https://github.com/KKoichi276052/what-i-made/files/12012765/certificate_DS.pdf)
-- [certificate_Docker.pdf](https://github.com/KKoichi276052/what-i-made/files/12012763/certificate_Docker.pdf)
-- [certificate_AI.pdf](https://github.com/KKoichi276052/what-i-made/files/12012762/certificate_AI.pdf)
-- [Responsive websites.pdf](https://github.com/KKoichi276052/what-i-made/files/12013280/Responsive.websites.pdf)
 
 ![10-mega-project](https://github.com/KKoichi276052/what-i-made/assets/116039997/a6e6c805-9db2-4756-8a5e-2f51b60ca263)
+![certificate_DS_page-0001](https://github.com/KKoichi276052/what-i-made/assets/116039997/3a0a763d-7a1d-4006-9751-026829eb8f1f)
+![certificate_Docker_page-0001](https://github.com/KKoichi276052/what-i-made/assets/116039997/661f96ad-4e0d-4f5e-8569-e6958572e37e)
+![certificate_AI_page-0001](https://github.com/KKoichi276052/what-i-made/assets/116039997/5e175703-44c7-435a-b541-189277a2b4a6)
 
