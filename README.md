@@ -4,9 +4,9 @@ This repo is to archive and show what I have learned.
 
 ## Links to what I made
 
-### 001: [Omnifood](https://app.netlify.com/sites/omnifood-kk/overview)
+### 001: ![Omnifood](https://app.netlify.com/sites/omnifood-kk/overview)
 
-Instructor guided project from [this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/){:target="_blank"}
+Instructor guided project from ![this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ### What I've learned
 
@@ -17,7 +17,6 @@ Instructor guided project from [this course](https://www.udemy.com/course/design
 - Technique to make sticky and drawable responsive navbar and using JS.
 - Valuable tips to improve website like caring accessibility.
 - animation using hover.
-- etc.
 
 ---
 
