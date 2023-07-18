@@ -4,14 +4,13 @@ This repo is to archive and show what I have learned.
 
 ## Links to what I made
 
-### 001: [Omnifood](https://app.netlify.com/sites/omnifood-kk/overview)
+### 001: [Omnifood](omnifood-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-**HTML / CSS / JS**
+**Responsive website with HTML / CSS / JS**
 
-### What I've learned
-
+### Keytakeways
 - Fundamentals of HTML and CSS.
 - CSS flexbox and grid.
 - How to make website responsive.
@@ -26,33 +25,35 @@ Instructor guided project from [this course](https://www.udemy.com/course/design
 
 Instructor guided project from [this course](https://www.udemy.com/course/html-and-css-bootcamp/)
 
-### What I've learned
+**Responsive website with HTML / CSS**
 
+### Keytakeways
 - Recap of what I learned on course above.
 - JS of gradient.
 - How to use CSS variables.
-- etc.
 
 ---
 
-### 003:[Foods](https://exercise001-koichi.netlify.app/)
+### 003:[Foods](foods-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
-### What I've learned
+**Responsive website with HTML / CSS / JS**
 
-- Infinite change loop of images using JS.
+### Keytakeways
+- Infinite loop of images transtion with arrays using JS.
 - How to make 3D card.
 - Cool hover effect on foods gallery
 
 ---
 
-### 004:[Design agency](https://exercise002-koichi.netlify.app/)
+### 004:[Design agency](design-agency-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
-### What I've learned
+**Responsive website with HTML / CSS / JS**
 
+### Keytakeways
 - By click expanding "about me" on team section using JS.
 - Infinite wave effect
 - Cool hover effect on navbar
@@ -63,8 +64,9 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
-### What I've learned
+**Responsive website with HTML / CSS / JS**
 
+### Keytakeways
 - clip-path property using [generator](https://bennettfeely.com/clippy/) for hero section back-ground and button.
 - Hero section background:  infinite transition using JS.
 - Creating 3D object(cube) with pseudo elements and how to rotate it.
@@ -77,8 +79,10 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
-### What I've learned
-- DOM manipulation to remove and add class to change styles
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- DOM manipulation to remove and add class to change styles on click.
 - Implement expanding effect by changing flex property value.
 
 ### My additional work
@@ -90,7 +94,9 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
-### What I've learned
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
 - Stick navbar when it is once located at top of the viewport.
 - Dynamic highlighting of navbar item by detecting which section you are.
 - Skill bar using JS without hard coding CSS width.
@@ -102,8 +108,12 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
-### What I've learned
-- Emerging vertical navbar on click and
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- Controlling emergence of vertical navbar on click 
+- 3D transition effect by opening side navbar
+- video play by mouseover and stop by mouseout
 
 ---
 
@@ -111,10 +121,13 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
-### What I've learned
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
 - keyframe animation and adding forward to animation property for keeping the end state of animation.
-- grid
-- tilt.js with data-tilt attribute (need jQuery) 
+- complex grid used at About us section
+- tilt.js with data-tilt attribute (need jQuery)
+- Opening loading affect with JS
 
 ---
 
@@ -122,11 +135,67 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
-### What I've learned
-- keyframe animation and adding forward to animation property for keeping the end state of animation.
-- grid
-- tilt.js with data-tilt attribute (need jQuery) 
+**HTML / CSS / JS**
 
+### Keytakeways
+- mouseenter and mouseleave to achieve cool effect.
+
+### My additional workd
+- Using calc() to make DRY code
+
+---
+
+### 011:[scroll-animation](https://scroll-animation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- scroll animation making box enter and leave lsitening to scroll event.
+- Using window.innderHeight as a trigger.
+  
+---
+
+### 012:[The road](https://the-road-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- Infinite word bouncing animation on top navigation.
+- 3D scaling animation of image
+- Cool animation on opening top left menu
+- Better maintainance for using JS arrays to applying styles
+
+---
+
+### 013:[Wine house](https://wine-house-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- Horizontal section transition by listening to scroll event and click button
+- Showing which section user are in at left bottom
+- Nice animation when hovering top navigation items
+
+---
+
+### 014:[Paypal clone](paypal-clone-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- Multiple pages(login and sign-up) not preparing html itself but controlling display property with JS
+- Opening dropdown items of top navigation when hovering using JS
+- Vertical navigation bar in small screens(window.innderWidth) opening multiple dropdown with clicking
+
+  
 ---
 
 ## My Certificates
