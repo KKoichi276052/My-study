@@ -4,7 +4,7 @@ This repo is to archive and show what I have learned.
 
 ## Links to what I made
 
-### 001: [Omnifood](omnifood-kk.netlify.app)
+### 001: [Omnifood](https://omnifood-kk.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
@@ -34,7 +34,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/html-a
 
 ---
 
-### 003:[Foods](foods-kk.netlify.app)
+### 003:[Foods](https://foods-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -47,7 +47,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 004:[Design agency](design-agency-kk.netlify.app)
+### 004:[Design agency](https://design-agency-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -131,7 +131,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 010:[split-landing-page](split-landing-page-kk.netlify.app)
+### 010:[split-landing-page](https://split-landing-page-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -184,7 +184,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 014:[Paypal clone](paypal-clone-kk.netlify.app)
+### 014:[Paypal clone](https://paypal-clone-kk.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -195,6 +195,52 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - Opening dropdown items of top navigation when hovering using JS
 - Vertical navigation bar in small screens(window.innderWidth) opening multiple dropdown with clicking
 
+
+---
+
+### 015:[rotating-navigation](https://rotating-navigation-kk.netlify.app/)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Rotating page to show navigation by toggling class manipulated JS
+
+
+---
+
+### 016:[progress-steps](https://progress-steps-kk.netlify.app/)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to manipulate progress steps with clicking buttons corresponding with styles.
+- Diabling buttons when progress cannot be further decreased or increased.
+
+---
+
+### 017:[hidden-search-widget](https://hidden-search-widget-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Expanding search bar with click
+
+---
+
+### 018:[blurry-loading](https://blurry-loading-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Removing the blur effect as loading counter increases with JS
   
 ---
 
