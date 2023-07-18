@@ -21,7 +21,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/design
 
 ---
 
-### 002:[Swipe](https://swipe-exercise.netlify.app/)
+### 002: [Swipe](https://swipe-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/html-and-css-bootcamp/)
 
@@ -34,7 +34,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/html-a
 
 ---
 
-### 003:[Foods](https://foods-kk.netlify.app)
+### 003: [Foods](https://foods-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -47,7 +47,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 004:[Design agency](https://design-agency-kk.netlify.app)
+### 004: [Design agency](https://design-agency-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -60,7 +60,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 005:[Apple e-commerce](https://apple-ecommerce-exercise.netlify.app/)
+### 005: [Apple e-commerce](https://apple-ecommerce-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -75,7 +75,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 006:[Expanding cards](https://expanding-cards-exercise.netlify.app/)
+### 006: [Expanding cards](https://expanding-cards-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -90,7 +90,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 007:[Personal portfolio](https://personal-portfolio-exercise-kk.netlify.app)
+### 007: [Personal portfolio](https://personal-portfolio-exercise-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -104,7 +104,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 008:[Classic cars](https://classic-cars-exercise.netlify.app/)
+### 008: [Classic cars](https://classic-cars-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -117,7 +117,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 009:[Architect website](https://classic-cars-exercise.netlify.app/)
+### 009: [Architect website](https://classic-cars-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -131,7 +131,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 010:[split-landing-page](https://split-landing-page-kk.netlify.app)
+### 010: [split-landing-page](https://split-landing-page-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -145,7 +145,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 011:[scroll-animation](https://scroll-animation-kk.netlify.app)
+### 011: [scroll-animation](https://scroll-animation-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -157,7 +157,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
   
 ---
 
-### 012:[The road](https://the-road-kk.netlify.app)
+### 012: [The road](https://the-road-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -171,7 +171,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 013:[Wine house](https://wine-house-kk.netlify.app)
+### 013: [Wine house](https://wine-house-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -184,7 +184,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 014:[Paypal clone](https://paypal-clone-kk.netlify.app/)
+### 014: [Paypal clone](https://paypal-clone-kk.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
@@ -198,7 +198,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ---
 
-### 015:[rotating-navigation](https://rotating-navigation-kk.netlify.app/)
+### 015: [rotating-navigation](https://rotating-navigation-kk.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -210,7 +210,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 016:[progress-steps](https://progress-steps-kk.netlify.app/)
+### 016: [progress-steps](https://progress-steps-kk.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -222,7 +222,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 017:[hidden-search-widget](https://hidden-search-widget-kk.netlify.app)
+### 017: [hidden-search-widget](https://hidden-search-widget-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -233,7 +233,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 018:[blurry-loading](https://blurry-loading-kk.netlify.app)
+### 018: [blurry-loading](https://blurry-loading-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
