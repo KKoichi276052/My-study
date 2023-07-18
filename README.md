@@ -19,6 +19,8 @@ Instructor guided project from [this course](https://www.udemy.com/course/design
 - animation using hover.
 - etc.
 
+---
+
 ### 002:[Swipe](https://swipe-exercise.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/html-and-css-bootcamp/)
@@ -30,6 +32,8 @@ Instructor guided project from [this course](https://www.udemy.com/course/html-a
 - How to use CSS variables.
 - etc.
 
+---
+
 ### 003:[Foods](https://exercise001-koichi.netlify.app/)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
@@ -39,7 +43,8 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - Infinite change loop of images using JS.
 - How to make 3D card.
 - Cool hover effect on foods gallery
-- etc.
+
+---
 
 ### 004:[Design agency](https://exercise002-koichi.netlify.app/)
 
@@ -50,8 +55,8 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - By click expanding "about me" on team section using JS.
 - Infinite wave effect
 - Cool hover effect on navbar
-- etc.
 
+---
 
 ### 005:[Apple e-commerce](https://apple-ecommerce-exercise.netlify.app/)
 
@@ -65,6 +70,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - Macbook section: Scroll effect using JS to trigger Macbook opening to showing info transition.
 - Apple watch section: Manipulating images position by changing margin triggered by button click.
 
+---
 
 ### 006:[Expanding cards](https://expanding-cards-exercise.netlify.app/)
 
@@ -77,6 +83,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 ### My additional work
 - add blur to non-active panels and remove it so active one can be outstanding.
 
+---
 
 ### 007:[personal-portfolio](https://personal-portfolio-exercise-kk.netlify.app)
 
@@ -88,6 +95,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - Skill bar using JS without hard coding CSS width.
 - nice hover effect with cards on "my projects" section.
 
+---
 
 ### 008:[classic-cars](https://classic-cars-exercise.netlify.app/)
 
@@ -96,6 +104,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 ### What I've learned
 - Emerging vertical navbar on click and
 
+---
 
 ### 009:[Architect website](https://classic-cars-exercise.netlify.app/)
 
@@ -106,6 +115,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - grid
 - tilt.js with data-tilt attribute (need jQuery) 
 
+---
 
 ### 010:[split-landing-page](split-landing-page-kk.netlify.app)
 
@@ -115,7 +125,6 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - keyframe animation and adding forward to animation property for keeping the end state of animation.
 - grid
 - tilt.js with data-tilt attribute (need jQuery) 
-
 
 ---
 
