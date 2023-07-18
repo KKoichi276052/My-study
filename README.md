@@ -111,7 +111,8 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 ## My Certificates
 - [Udemy_Wordpres講座_修了証明書.pdf](https://github.com/KKoichi276052/what-i-made/files/12012774/Udemy_Wordpres._.pdf)
-- [certificate_Python.pdf](https://github.com/KKoichi276052/what-i-made/files/12012773/certificate_Python.pdf)
+- [certificate_Python.pdf](https://github.com/KKo[10-mega-project.pdf](https://github.com/KKoichi276052/what-i-made/files/12075321/10-mega-project.pdf)
+ichi276052/what-i-made/files/12012773/certificate_Python.pdf)
 - [certificate_Programming fundamentals.pdf](https://github.com/KKoichi276052/what-i-made/files/12012771/certificate_Programming.fundamentals.pdf)
 - [certificate_ML.pdf](https://github.com/KKoichi276052/what-i-made/files/12012770/certificate_ML.pdf)
 - [certificate_Linux.pdf](https://github.com/KKoichi276052/what-i-made/files/12012769/certificate_Linux.pdf)
@@ -122,5 +123,6 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 - [certificate_Docker.pdf](https://github.com/KKoichi276052/what-i-made/files/12012763/certificate_Docker.pdf)
 - [certificate_AI.pdf](https://github.com/KKoichi276052/what-i-made/files/12012762/certificate_AI.pdf)
 - [Responsive websites.pdf](https://github.com/KKoichi276052/what-i-made/files/12013280/Responsive.websites.pdf)
+[Uploading 10-mega-project.pdf…]()
 
 
