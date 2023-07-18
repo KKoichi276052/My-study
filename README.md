@@ -114,6 +114,11 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
 ![10-mega-project](https://github.com/KKoichi276052/what-i-made/assets/116039997/a6e6c805-9db2-4756-8a5e-2f51b60ca263)
 ![Udemy_Wordpres講座_修了証明書](https://github.com/KKoichi276052/what-i-made/assets/116039997/e401eb43-96c4-4b5b-abc0-27c8445f9683)
+### Coursera
+![Coursera C8PS4B9KPM4J](https://github.com/KKoichi276052/what-i-made/assets/116039997/393e2216-b135-473e-8266-26b77ebd7179)
+![Coursera QN3GD4WV9TEZ](https://github.com/KKoichi276052/what-i-made/assets/116039997/7938b3de-2aec-4c33-9a74-ca1be4f784c5)
+
+
 ### Programming Hub
 ![certificate_DS_page-0001](https://github.com/KKoichi276052/what-i-made/assets/116039997/3a0a763d-7a1d-4006-9751-026829eb8f1f)
 ![certificate_Docker_page-0001](https://github.com/KKoichi276052/what-i-made/assets/116039997/661f96ad-4e0d-4f5e-8569-e6958572e37e)
