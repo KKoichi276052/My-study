@@ -32,7 +32,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/html-a
 
 ### 003:[Foods](https://exercise001-koichi.netlify.app/)
 
-Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac)
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 ### What I've learned
 
@@ -43,7 +43,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ### 004:[Design agency](https://exercise002-koichi.netlify.app/)
 
-Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac)
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 ### What I've learned
 
@@ -55,7 +55,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ### 005:[Apple e-commerce](https://apple-ecommerce-exercise.netlify.app/)
 
-Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac)
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 ### What I've learned
 
@@ -68,7 +68,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 
 ### 006:[Expanding cards](https://expanding-cards-exercise.netlify.app/)
 
-Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
 ### What I've learned
 - DOM manipulation to remove and add class to change styles
@@ -80,7 +80,7 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 ### 007:[personal-portfolio](https://personal-portfolio-exercise-kk.netlify.app)
 
-Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 ### What I've learned
 - Stick navbar when it is once located at top of the viewport.
@@ -91,7 +91,7 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 ### 008:[classic-cars](https://classic-cars-exercise.netlify.app/)
 
-Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
 ### What I've learned
 - Emerging vertical navbar on click and
@@ -99,7 +99,7 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 
 ### 009:[Architect website](https://classic-cars-exercise.netlify.app/)
 
-Instructor guided project from [this course]([https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/?kw=10+mega&src=sac](https://ibmcsr.udemy.com/course/50-projects-50-days/learn/lecture/23599990#overview))
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
 ### What I've learned
 - keyframe animation and adding forward to animation property for keeping the end state of animation.
@@ -107,7 +107,17 @@ Instructor guided project from [this course]([https://www.udemy.com/course/10-me
 - tilt.js with data-tilt attribute (need jQuery) 
 
 
+### 010:[split-landing-page](split-landing-page-kk.netlify.app)
 
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+### What I've learned
+- keyframe animation and adding forward to animation property for keeping the end state of animation.
+- grid
+- tilt.js with data-tilt attribute (need jQuery) 
+
+
+---
 
 ## My Certificates
 ### Udemy
