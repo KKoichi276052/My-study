@@ -244,7 +244,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-- ### 019: [Business Agency](https://business-agency-kk.netlify.app)
+### 019: [Business Agency](https://business-agency-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
 
