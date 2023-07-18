@@ -4,9 +4,10 @@ This repo is to archive and show what I have learned.
 
 ## Links to what I made
 
-### 001: ![Omnifood](https://app.netlify.com/sites/omnifood-kk/overview)
+### 001: [Omnifood](https://app.netlify.com/sites/omnifood-kk/overview)
 
-Instructor guided project from ![this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+Instructor guided project from [this course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+* HTML / CSS / JS *
 
 ### What I've learned
 
@@ -77,7 +78,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### What I've learned
 - DOM manipulation to remove and add class to change styles
-* Implement expanding effect by changing flex property value.
+- Implement expanding effect by changing flex property value.
 
 ### My additional work
 - add blur to non-active panels and remove it so active one can be outstanding.
