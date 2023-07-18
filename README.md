@@ -241,6 +241,19 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### Keytakeways
 - Removing the blur effect as loading counter increases with JS
+
+---
+
+- ### 019: [Business Agency](https://business-agency-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+
+**Responsive website with HTML / CSS / JS**
+
+### Keytakeways
+- Infinite wording switching using JS
+- Video play manipulating and showing progress with JS
+- Swiper JS to implement cool card effects
   
 ---
 
