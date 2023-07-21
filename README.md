@@ -246,7 +246,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### 019: [Business Agency](https://business-agency-kk.netlify.app)
 
-Instructor guided project from [this course](https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/)
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
 **Responsive website with HTML / CSS / JS**
 
@@ -254,6 +254,103 @@ Instructor guided project from [this course](https://www.udemy.com/course/10-meg
 - Infinite wording switching using JS
 - Video play manipulating and showing progress with JS
 - Swiper JS to implement cool card effects
+  
+---
+
+
+### 020: [Form Vaidator](https://www.udemy.com/course/50-projects-50-days/)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to validate empty field using JS
+- Using trim to remove whitespace from both ends
+- Uppercase first letter using charAt(0) and concatnating the rest of the characters with slice(1)
+- regex email validation
+- Conditionals to show error when inputs don't meet the requirement
+  
+---
+
+### 021: [Sound Board](https://sound-board-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- audio tag to embed audio to HTML
+- click event to play sound and stop other audio in case it's playing
+  
+---
+
+
+### 022: [Sound Board](https://sound-board-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- audio tag to embed audio to HTML
+- click event to play sound and stop other audio in case it's playing
+  
+---
+
+### 023: [Form wave animation](https://form-wave-animation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Manipulating transition timing with array index to implement wave action using transition-delay
+
+---
+
+### 024: [Form wave animation](https://form-wave-animation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Manipulating transition timing with array index to implement wave action using transition-delay
+
+---
+
+### 025: [Dad Jokes](https://dad-jokes-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Using API for the first time!
+- async and await instead of then.
+
+---
+
+### 026: [Sign up form](https://sign-up-form-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-web-projects-with-html-css-and-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Cool animation utilizing z-index to reveal sign up form
+
+---
+
+### 027: [Sneaker card](https://nike-card-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-web-projects-with-html-css-and-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Switching animation be adding and removing class on click the color selector.
   
 ---
 
