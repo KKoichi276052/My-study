@@ -365,6 +365,17 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-web
   
 ---
 
+### 028: [Keycode event](https://keycord-event.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- keydown event listner to display key, keycode and event code.
+  
+---
+
 ## My Certificates
 ### Udemy
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
