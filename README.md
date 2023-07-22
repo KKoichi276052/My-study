@@ -351,6 +351,17 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-web
 
 ### Keytakeways
 - Switching animation be adding and removing class on click the color selector.
+
+---
+
+### 027: [Dark mode](https://dark-mode-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-web-projects-with-html-css-and-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Switching light mode and dark mode toggling class.
   
 ---
 
