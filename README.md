@@ -373,7 +373,18 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### Keytakeways
 - keydown event listner to display key, keycode and event code.
-  
+
+
+---
+
+### 029: [FAQ(Accordion)](https://faq-boxes.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Frequently seen accordion by toggling class.
 ---
 
 ## My Certificates
