@@ -395,10 +395,9 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 **HTML / CSS / JS**
 
 ### Keytakeways
-- creating elements by user input separated with comma(split, filter , map). 
-- Easy validation for input 
-- Create element according to user input
-- Animation while picking the tags
+- Array methods. Split(',') to store user input into array, filter() to extract elements matching condtion(not empty) and map() to remove whitespace
+- Create span element according to user input
+- setInterval and setTimeout to implement for random selecting animation.
 
 
 ---
