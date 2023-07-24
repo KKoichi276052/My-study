@@ -399,7 +399,17 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - Create span element according to user input
 - setInterval and setTimeout to implement for random selecting animation.
 
+---
 
+### 031: [Animated navigation](https://animated-navigation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- background-image property to create horizontally center divied background
+- transfrom: rotate property to rotate the elements when opening the navigation
 ---
 
 ## My Certificates
