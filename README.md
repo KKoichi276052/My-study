@@ -385,6 +385,22 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### Keytakeways
 - Frequently seen accordion by toggling class.
+
+---
+
+### 030: [Random choice picker](https://random-choice-picker-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- creating elements by user input separated with comma(split, filter , map). 
+- Easy validation for input 
+- Create element according to user input
+- Animation while picking the tags
+
+
 ---
 
 ## My Certificates
