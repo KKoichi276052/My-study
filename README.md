@@ -410,6 +410,29 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 ### Keytakeways
 - background-image property to create horizontally center divied background
 - transfrom: rotate property to rotate the elements when opening the navigation
+
+---
+
+### 032: [FAQ Boxes](https://faq-boxes.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement accordion
+
+---
+
+### 033: [Increment counter](https://increment-counter-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Increment counter using data- attribute, recursion function
+
 ---
 
 ## My Certificates
