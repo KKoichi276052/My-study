@@ -424,6 +424,18 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
+### 033: [Drink water](https://drink-water-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Complex conditional statements to fill and unfill the small cups.
+- Template literals to show the amount you've drank and remaining liters and percentage.
+
+---
+
 ### 033: [Increment counter](https://increment-counter-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
