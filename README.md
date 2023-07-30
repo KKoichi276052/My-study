@@ -447,6 +447,29 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
+### 034: [Movie App](https://movie-search-app-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to utilize third-party API into your App(My first API app!)
+- Search function of movie from search box
+
+---
+
+### 035: [Background Slider](https://background-slider-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Slider animation using JS on click event
+
+---
+
 ## My Certificates
 ### Udemy
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
