@@ -470,6 +470,18 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
+### 036: [Theme Clock](https://theme-clock-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Switching dark mode and light mode by toggling class to html element
+- How to implement dynamic real-time clock
+
+---
+
 ## My Certificates
 ### Udemy
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
