@@ -482,6 +482,46 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
+### 037: [Drag and Drop](https://drag-and-drop-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to make draggable element with draggable=truu attribute
+- Drag related event listners(dragover, dragenter, dragleave and drop)
+
+
+---
+
+### 038: [Kinetic loading](https://kinetic-loading.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS**
+
+### Keytakeways
+- How to create triangle with border property
+- @keyframe to implement animation
+
+
+---
+
+### 039: [Drawing Canvas](https://canvas-app-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- canvas element to make canvas on website
+- How to implement drawing function using multiple event listner(mousedown, mouseup and mousemove)
+- Other drawing related function such as changing the width and color of line, and clearing canvas.
+
+
+---
+
 ## My Certificates
 ### Udemy
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
