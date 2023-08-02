@@ -519,7 +519,31 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - How to implement drawing function using multiple event listner(mousedown, mouseup and mousemove)
 - Other drawing related function such as changing the width and color of line, and clearing canvas.
 
+---
 
+### 040: [Content Placeholder](https://content-placeholder-loading.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement content placehodler with loading animation
+- Displaying acutal content after loading effect.
+
+---
+
+### 041: [Sricky navigation](https://sticky-navigation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement sticky navigation changing its view once it position reaching certain point using scrollY and offsetHeight
+- Displaying acutal content after loading effect.
+
+  
 ---
 
 ## My Certificates
