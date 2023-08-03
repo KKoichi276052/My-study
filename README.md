@@ -533,7 +533,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 041: [Sricky navigation](https://sticky-navigation-kk.netlify.app)
+### 041: [Sticky navigation](https://sticky-navigation-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -543,7 +543,41 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - How to implement sticky navigation changing its view once it position reaching certain point using scrollY and offsetHeight
 - Displaying acutal content after loading effect.
 
-  
+---
+
+### 042: [Toast Notification](https://toast-notification-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to get message from array and insert as a text for notification
+
+---
+
+### 042: [Toast Notification](https://toast-notification-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to get message from array and insert as a text for notification
+
+---
+
+### 043: [Vertical Slider](https://vertical-slider-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to get implement cool vertical slider transition with manipulating trasnform translateY
+
+
+
 ---
 
 ## My Certificates
