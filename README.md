@@ -577,6 +577,56 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - How to get implement cool vertical slider transition with manipulating trasnform translateY
 
 
+---
+
+### 044: [Github Profile](https://get-github-profile-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to get github profile via github API using axios
+- error handling when searched user doesn't exist
+
+---
+
+### 045: [Github Profile](https://get-github-profile-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to get github profile via github API using axios
+- error handling when searched user doesn't exist
+
+
+---
+
+### 046: [Double Click Heart](https://double-click-heart-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement heart showing animation according to where user double clicked
+- How to detect double click
+- Taking care of removing elements in second
+
+---
+
+### 047: [Text Typing Effect](https://text-typing-effect-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to inplement text typing animation using slice
+- How to change typing speed from user input
+
 
 ---
 
