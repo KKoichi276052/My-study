@@ -627,7 +627,17 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - How to inplement text typing animation using slice
 - How to change typing speed from user input
 
+---
 
+### 048: [Password Generator](https://password-generator-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to generate random characters and others using String.fromCharCode
+- How to let uesr customize password such as length and what types of word to be included for what kind of password to be generatad
 ---
 
 ## My Certificates
