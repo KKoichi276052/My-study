@@ -638,6 +638,45 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 ### Keytakeways
 - How to generate random characters and others using String.fromCharCode
 - How to let uesr customize password such as length and what types of word to be included for what kind of password to be generatad
+
+
+---
+
+### 049: [Good Fast Cheap Button](https://good-cheap-fast-checkbox-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement toggle button animation
+- Logic to not making all options available at the same time
+
+---
+
+### 050: [Note App](https://note-app-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement browser note taking app with markdown available using marked
+- How to interact with local storage to save and fetch data using JSON.stringify
+
+
+---
+
+### 051: [Countdown Animation](https://countdown-animation.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Cool rotating countdown keyframe animation using transfrom-origin: bottom center
+-
+
 ---
 
 ## My Certificates
