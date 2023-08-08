@@ -675,7 +675,31 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### Keytakeways
 - Cool rotating countdown keyframe animation using transfrom-origin: bottom center
--
+
+---
+
+### 052: [Image Carousel](https://image-carousel-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Auto sliding carousel having function to move on to both back and forward.
+- Adding resetInterval to resolve awkward behaviour when moving on to next image when button is clicked
+
+---
+
+### 053: [Hoverboard](https://hoverboard-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Random color showing effect with mouseover and mouseout event
+- Natural color emerging with transition-duration: 0 and fading effct with trasnsion: 2s ease
+
 
 ---
 
