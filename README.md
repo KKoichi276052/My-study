@@ -661,9 +661,32 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 **HTML / CSS / JS**
 
 ### Keytakeways
+- Create Pokedex by fetching data from pokeapi.co(async/await)
+- Styling the card according to the pokemon's main type
+
+
+---
+
+### 051: [Mobile Tab Navigation](https://mobile-tab-nav-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Manipulate class of each images and clesses to switch active tab and image
+
+---
+
+### 051: [Pokedex](https://pokedex-koichi.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
 - How to implement browser note taking app with markdown available using marked
 - How to interact with local storage to save and fetch data using JSON.stringify
-
 
 ---
 
