@@ -678,7 +678,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 051: [Pokedex](https://pokedex-koichi.netlify.app)
+### 052: [Pokedex](https://pokedex-koichi.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -690,7 +690,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 051: [Countdown Animation](https://countdown-animation.netlify.app)
+### 053: [Countdown Animation](https://countdown-animation.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -701,7 +701,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 052: [Image Carousel](https://image-carousel-kk.netlify.app)
+### 054: [Image Carousel](https://image-carousel-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -713,7 +713,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 053: [Hoverboard](https://hoverboard-kk.netlify.app)
+### 055: [Hoverboard](https://hoverboard-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -723,7 +723,29 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - Random color showing effect with mouseover and mouseout event
 - Natural color emerging with transition-duration: 0 and fading effct with trasnsion: 2s ease
 
+---
 
+### 056: [password-strength-background](https://password-strength-background-effect.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Blur removing effect as password gets longer, maximum 20
+
+---
+
+### 057: [Verification Account UI](https://verification-account-ui.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- Common 6-digit account verification UI
+- Function to prevent entering multiple numbers to a box, move to next box immediately after input, focusing to box where user want to input even if backspace was hit.
+  
 ---
 
 ## My Certificates
