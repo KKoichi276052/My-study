@@ -745,7 +745,55 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 ### Keytakeways
 - Common 6-digit account verification UI
 - Function to prevent entering multiple numbers to a box, move to next box immediately after input, focusing to box where user want to input even if backspace was hit.
-  
+
+---
+
+### 058: [User Filter](https://live-user-filter-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Get random user via randomuser api and display it
+- Function to filter according to uesr input
+
+---
+
+### 059: [User Filter](https://live-user-filter-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Get random user via randomuser api and display it
+- Function to filter according to uesr input
+
+---
+
+### 060: [User Filter](https://live-user-filter-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Get random user via randomuser api and display it
+- Function to filter according to uesr input
+
+
+---
+
+### 060: [Feedback UI Design](https://feedback-ui-design-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Showing dynamic modal message accroding to user feedback
+
 ---
 
 ## My Certificates
