@@ -772,20 +772,42 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 060: [User Filter](https://live-user-filter-kk.netlify.app)
+### 061: [3D Boxes Background](https://3d-boxes-background-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
 **HTML / CSS / JS / API**
 
 ### Keytakeways
-- Get random user via randomuser api and display it
-- Function to filter according to uesr input
+- cool rotating box transition effect by clicking button
 
 
 ---
 
-### 060: [Feedback UI Design](https://feedback-ui-design-kk.netlify.app)
+### 062: [3D Boxes Background](https://3d-boxes-background-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- cool rotating box transition effect by clicking button
+
+---
+
+### 063: [Button Ripple Effect](https://button-ripple-effect-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Ripple effect according to where you clicked on button
+
+
+---
+
+### 064: [Feedback UI Design](https://feedback-ui-design-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -793,6 +815,117 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ### Keytakeways
 - Showing dynamic modal message accroding to user feedback
+
+---
+
+### 065: [Feedback UI Design](https://feedback-ui-design-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Showing dynamic modal message accroding to user feedback
+
+---
+
+### 066: [ToDo List](https://todo-list-koichi.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to interact with local storage to add todo list
+- Function to complete todo and add strike through by click
+- Function to delete todo with right click (contextmenu event)
+
+
+---
+
+### 067: [ToDo List](https://todo-list-koichi.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to interact with local storage to add todo list
+- Function to complete todo and add strike through by click
+- Function to delete todo with right click (contextmenu event)
+
+---
+
+### 068: [Random Image Generator](https://random-image-generator-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to generate image by manipulating URL
+
+
+---
+
+### 069: [Testimonial Box](https://tesimonial-transition.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to implement infinite tesimonial transition effect with progress bar
+
+---
+
+### 070: [Quiz App](https://quiz-app-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to implement quiz with object retains options and answer
+- Incrementing score and show it when finishin quizzes
+
+---
+
+### 071: [Netflix Navigation](https://netflix-navigation-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to implement cool navigation shifting timing of transtion and width of side navigation bar.
+
+
+---
+
+### 072: [Custom Range Slider](https://custom-range-slider-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to implement custom range slider for all browsers
+- Number showing the range value sticking with the circle position
+
+---
+
+### 073: [Inset Catch Game](https://insect-catching-game-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- Multiple div to implement screen transition effect manipulating margin -100vh
+- How to make insect appear at random place and random rotation
+- How to make timer and score counter incrementing by clickng the insect
+
 
 ---
 
