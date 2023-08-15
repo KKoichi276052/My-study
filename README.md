@@ -915,7 +915,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 
 ---
 
-### 073: [Inset Catch Game](https://insect-catching-game-kk.netlify.app)
+### 073: [Insect Catch Game](https://insect-catching-game-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/50-projects-50-days/)
 
@@ -926,6 +926,28 @@ Instructor guided project from [this course](https://www.udemy.com/course/50-pro
 - How to make insect appear at random place and random rotation
 - How to make timer and score counter incrementing by clickng the insect
 
+---
+
+### 074: [Newletter Subscribe](https://email-subscribe-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- My First TailwindCSS project!
+- How to build simple CTA section with spacing, styling, layout and responsive
+
+---
+
+### 074: [Pricing Cards](https://tailwindcss-pricing-cards.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- How to build simle pricing cards with spacing, styling, layout and responsive
 
 ---
 
