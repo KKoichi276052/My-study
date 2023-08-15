@@ -940,14 +940,28 @@ Instructor guided project from [this course](https://www.udemy.com/course/tailwi
 
 ---
 
-### 074: [Pricing Cards](https://tailwindcss-pricing-cards.netlify.app)
+### 075: [Pricing Cards](https://tailwindcss-pricing-cards.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
 
 **HTML / TailWindCSS**
 
 ### Keytakeways
-- How to build simle pricing cards with spacing, styling, layout and responsive
+- How to build simple pricing cards with spacing, styling, layout and responsive
+
+
+---
+
+### 076: [Movie Seat Booking App](https://movie-seat-booking-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to build movie seat booking UI
+- How to manage ticket selection and price according to how many seats user have choosen
+- Interact with local storage to retain data of choosen seats
 
 ---
 
