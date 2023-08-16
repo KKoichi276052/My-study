@@ -963,6 +963,45 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 - How to manage ticket selection and price according to how many seats user have choosen
 - Interact with local storage to retain data of choosen seats
 
+
+---
+
+### 077: [Prodcut model](https://tailwindcss-product-modal-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- How to build simple and responsive product modal0 with ping animation/
+
+
+---
+
+### 078: [Custom Video Player](custom-video-player-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to make custom video player with JavaScript
+- How to manage ticket selection and price according to how many seats user have choosen
+- Interact with local storage to retain data of choosen seats
+
+
+---
+
+### 079: [Exchange Rate App](custom-video-player-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to make custom video player with playing and stopping, progress bar by JavaScript styling with CSS
+
+
 ---
 
 ## My Certificates
