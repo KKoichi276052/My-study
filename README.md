@@ -1004,6 +1004,61 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ---
 
+### 080: [Image Gallery](https://tailwindcss-image-gallery-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- How to implement responsive grid gallery with TailwindCSS
+
+
+---
+
+### 082: [Login Modal](https://tailwindcss-login-modal-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- How to implement responsive log in modal with TailwindCSS
+
+
+---
+
+### 083: [Modal Menu and Slider](https://modal-menu-slider-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to implement side nav bar by clicking hamburger menu and modal when clickng respectie buttons
+
+
+---
+
+### 084: [Modal Menu and Slider](https://modal-menu-slider-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / API **
+
+### Keytakeways
+- How to use array methods(forEach, map, filter, sort, reduce) in with real examples
+- forEach() to create elements
+- map() to double money
+- filter() to show items only matches the condition
+- sort() to sort by number in descndant order(b.number - a.number)
+- reduce() to calculate sum of all number
+- API to get random user
+
+
+
+---
+
 ## My Certificates
 ### Udemy
 ![Responsive websites](https://github.com/KKoichi276052/what-i-made/assets/116039997/8c45b81f-1287-4bdd-a267-6dadd1052776)
