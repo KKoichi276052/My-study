@@ -1040,9 +1040,25 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ---
 
-### 084: [Modal Menu and Slider](https://modal-menu-slider-kk.netlify.app)
+### 084: [Arary methods](https://dom-array-methods-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+### Keytakeways
+- How to use array methods(forEach, map, filter, sort, reduce) in with real examples
+- forEach() to create elements
+- map() to double money
+- filter() to show items only matches the condition
+- sort() to sort by number in descndant order(b.number - a.number)
+- reduce() to calculate sum of all number
+- API to get random user
+
+
+---
+
+### 085: [ClipBoard](tailwind-clipboard-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 **HTML / TailWindCSS**
 
@@ -1054,20 +1070,16 @@ Instructor guided project from [this course](https://www.udemy.com/course/tailwi
 
 ---
 
-### 085: [ClipBoard](tailwind-clipboard-kk.netlify.app)
+### 086: [Meal finder](https://meal-finder-kk.netlify.app)
 
 Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
-**HTML / CSS / JS / API **
+**HTML / CSS / JS**
 
 ### Keytakeways
-- How to use array methods(forEach, map, filter, sort, reduce) in with real examples
-- forEach() to create elements
-- map() to double money
-- filter() to show items only matches the condition
-- sort() to sort by number in descndant order(b.number - a.number)
-- reduce() to calculate sum of all number
-- API to get random user
+- How to work with Meal finder API to get meal's image, instructions, ingredients
+- Function to get random meal
+- Search meal according to user input
 
 ---
 
