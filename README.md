@@ -1042,6 +1042,20 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ### 084: [Modal Menu and Slider](https://modal-menu-slider-kk.netlify.app)
 
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- My first TailwindCSS project!
+- Customizing fonts, colors on tailwind.config.js
+- Adding components like class to input.css
+
+
+---
+
+### 085: [ClipBoard](tailwind-clipboard-kk.netlify.app)
+
 Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 **HTML / CSS / JS / API **
@@ -1054,8 +1068,6 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 - sort() to sort by number in descndant order(b.number - a.number)
 - reduce() to calculate sum of all number
 - API to get random user
-
-
 
 ---
 
