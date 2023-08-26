@@ -1081,6 +1081,35 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 - Function to get random meal
 - Search meal according to user input
 
+
+---
+
+### 087: [Expense Tracker](https://expense-tracker-kk2.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to track expense interacting with local storage
+- Function to add and delete items
+- Prevent duplication of item
+- Calculate total expense with 
+
+
+
+---
+
+### 089: [Infinite Scroll Blog](https://infinite-scroll-blog-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / API**
+
+### Keytakeways
+- How to get random blog post with placeholderAPI
+- Infinite blog addition with loading effect
+  
 ---
 
 ## My Certificates
