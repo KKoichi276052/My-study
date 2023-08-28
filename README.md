@@ -1042,7 +1042,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ### 084: [Arary methods](https://dom-array-methods-kk.netlify.app)
 
-Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 ### Keytakeways
 - How to use array methods(forEach, map, filter, sort, reduce) in with real examples
@@ -1109,8 +1109,25 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 ### Keytakeways
 - How to get random blog post with placeholderAPI
 - Infinite blog addition with loading effect
+
+
+---
+
+### 090: [Loop Studio](https://tailwindcss-loopstudio-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+### Keytakeways
+- How to implement responsive log in modal with TailwindCSS
+- Responsive hamburger menu
+
   
 ---
+
+
+
 
 ## My Certificates
 ### Udemy
