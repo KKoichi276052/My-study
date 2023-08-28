@@ -1123,7 +1123,20 @@ Instructor guided project from [this course](https://www.udemy.com/course/tailwi
 - How to implement responsive log in modal with TailwindCSS
 - Responsive hamburger menu
 
-  
+
+---
+
+### 091: [Music Player](https://music-player-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / CSS / JS**
+
+### Keytakeways
+- How to create custom music player with record rotating effect
+- Function to change music
+- Progress bar with function to start where the user clicks
+
 ---
 
 
