@@ -1128,7 +1128,7 @@ Instructor guided project from [this course](https://www.udemy.com/course/tailwi
 
 ### 091: [Music Player](https://music-player-kk.netlify.app)
 
-Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 **HTML / CSS / JS**
 
@@ -1136,6 +1136,21 @@ Instructor guided project from [this course](https://www.udemy.com/course/tailwi
 - How to create custom music player with record rotating effect
 - Function to change music
 - Progress bar with function to start where the user clicks
+
+
+---
+
+### 092: [Lyrics Search](lyrics-search-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / API**
+
+
+### Keytakeways
+- How to work with Lyric search API(not currently working)
+- Function to search song and get formatted lyrics with regular expression
+
 
 ---
 
