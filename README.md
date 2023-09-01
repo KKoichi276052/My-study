@@ -1154,6 +1154,33 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ---
 
+### 093: [Relaxer app](https://takeadeepbreath.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / **
+
+
+### Keytakeways
+- How to implement rotating cicle around cetner cricle
+- Use setTimouout() to controll the scaling effect of circle corresponding with breathe in and out.
+
+
+---
+
+### 094: [Typing game](https://easytypinggame.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / **
+
+
+### Keytakeways
+- How to implement Typing game with difficulty change, score counting and count down functin.
+
+
+---
+
 
 
 
