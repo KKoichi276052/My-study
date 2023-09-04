@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Poppins, sans-serif;
+}
+
+#cta {
+  background-image: url("../images/bg-boost-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ficon:hover {
+  filter: invert(79%) sepia(61%) saturate(464%) hue-rotate(130deg)
+    brightness(89%) contrast(85%);
+}
+
+/* Components */
+.btn-base {
+  @apply text-white focus:outline-none bg-cyan font-bold;
+}
+
+.btn-primary {
+  @apply btn-base;
+  @apply px-10 py-5 text-2xl rounded-full hover:opacity-70 lg:py-4;
+}
+
+.btn-secondary {
+  @apply btn-base;
+  @apply px-10 py-3 rounded-lg hover:bg-cyanLight md:py-2;
+}
+
+.btn-tertiary {
+  @apply btn-base;
+  @apply p-2 px-8 bg-darkViolet rounded-lg hover:opacity-70;
+}
+
+.shorten_container {
+  @apply flex flex-col items-center justify-between w-full p-6 bg-white rounded-lg font-bold md:flex-row;
+}
+
+.shorten_wrapper {
+  @apply flex flex-col items-center justify-end flex-1 space-y-2;
+  @apply space-x-4 md:flex-row md:space-y-0;
+}
+
+/* HAMBURGER MENU */
+
+.hamburger {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+  transition: all 0.25s;
+  position: relative;
+}
+
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom {
+  content: "";
+  position: absolute;
+  width: 24px;
+  height: 3px;
+  top: 0;
+  left: 0;
+  background: #9c9aa6;
+  transform: rotate(0);
+  transition: all 0.5s;
+}
+
+.hamburger-middle {
+  transform: translateY(7px);
+}
+
+.hamburger-bottom {
+  transform: translateY(14px);
+}
+
+.open {
+  transform: rotate(90deg);
+  transform: translateY(0px);
+}
+
+.open .hamburger-top {
+  transform: rotate(45deg) translateY(6px) translateX(6px);
+}
+
+.open .hamburger-middle {
+  display: none;
+}
+
+.open .hamburger-bottom {
+  transform: rotate(-45deg) translateY(6px) translateX(-6px);
+}
