@@ -1176,7 +1176,33 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 
 ### Keytakeways
-- How to implement Typing game with difficulty change, score counting and count down functin.
+- How to implement Typing game with difficulty change, score counting and count down function.
+
+
+
+---
+
+### 095: [Shortly](https://tailwind-shotrtenlink.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / JS / TailWindCSS**
+
+### Keytakeways
+- Responsive hamburger menu
+
+---
+
+### 096: [Typing game](https://new-year-countdown-kk.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+**HTML / CSS / JS / **
+
+
+### Keytakeways
+- How to implement dynamic new year countdown
+- Loading effect with gif
 
 
 ---
