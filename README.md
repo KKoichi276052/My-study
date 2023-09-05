@@ -1207,6 +1207,20 @@ Instructor guided project from [this course](https://www.udemy.com/course/web-pr
 
 ---
 
+### 097: [testimonial-grid](https://tailwind-testimonial-grid.netlify.app)
+
+Instructor guided project from [this course](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+Instructor guided project from [this course](https://www.udemy.com/course/tailwind-from-scratch/)
+
+**HTML / TailWindCSS**
+
+
+### Keytakeways
+- How to implement responsive grid
+
+---
+
 
 
 
